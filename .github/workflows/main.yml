@@ -12,8 +12,8 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-      - name: youremailaddresshere
-        run: echo "23f2004905@ds.study.iitm.ac.in"
+      - name: 23f2004905@ds.study.iitm.ac.in
+        run: echo "Hello, world!"
         
       - name: Display date
         run: date
